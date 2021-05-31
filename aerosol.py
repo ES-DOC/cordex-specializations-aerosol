@@ -27,11 +27,6 @@ CHANGE_HISTORY = [
     ]
 
 # --------------------------------------------------------------------
-# CMIP5_MAPPINGS_SYNCED_AT: Latest version that has been synced with CMIP5 mappings.
-# --------------------------------------------------------------------
-CMIP5_MAPPINGS_SYNCED_AT = "1.0.0"
-
-# --------------------------------------------------------------------
 # DESCRIPTION: Scientific context of this specialization
 # --------------------------------------------------------------------
 DESCRIPTION = 'Atmospheric aerosols'
