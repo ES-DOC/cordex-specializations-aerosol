@@ -1,2 +1,2 @@
 # cordex-specializations-aerosols
-Aerosols CORDEX specialisation definitions
+ Micro-repository to contain aerosols specific CORDEX specializations 
